@@ -1,0 +1,20 @@
+The Experiment Mainly Focus on:
+HTML Structure:
+A main container holds all the UI elements.
+A <div> displays the balance .
+A <div> groups the two buttons together .
+Two <button> elements are created for "Deposit" and "Withdrawal."
+CSS Styling and Layout:
+Centering: The body element uses Flexbox (display: flex;) to center the entire banking card in the middle of the page, both horizontally and vertically.
+Card Design: The .banking-card has a professional look with a white background, rounded corners (border-radius), and a subtle shadow (box-shadow) to give it a 3D effect.
+Typography: The code specifies a clean, modern font and sets large, bold text for the balance display.
+Button Styling: The "Deposit" and "Withdraw" buttons have distinct colors, generous padding, and rounded corners.
+Interactive Effects: CSS :hover selectors add a smooth visual effect where the buttons slightly lift up and change their shadow when the mouse hovers over them, making the UI feel responsive.
+Responsiveness: Media queries (@media) are used to adjust the font size, padding, and layout of the card and buttons on smaller screens (like tablets and phones) to ensure a good user experience on all devices.
+
+
+
+
+
+
+
