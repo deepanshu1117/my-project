@@ -1,0 +1,18 @@
+Live Character Counter for Textarea
+Objective
+The goal of this project is to create a simple feature that displays a live character count as the user types in a textarea. This project demonstrates **real-time event handling** and **dynamic content updates**, which are important skills for improving user interaction on web pages.
+Task Description
+ Build a web page that contains a `<textarea>` where the user can type text.  
+ Add a character counter below (or beside) the textarea.  
+ The counter should **update immediately** as the user types or deletes content.  
+ Display the **current number of characters** entered in the textarea.  
+ This project helps practice **JavaScript DOM manipulation** and **event listeners** (`input` event).  
+Key Learning
+ Handling real-time input with JavaScript.  
+ Updating DOM elements dynamically.  
+ Enhancing user experience with instant feedback.  
+Technologies Used
+ **HTML** → To structure the textarea and counter.  
+ **CSS** → To style the textarea and counter display.  
+ **JavaScript** → To handle live updates of the character counter.  
+ Example Use Case: This feature can be used in **forms, feedback sections, or social media text areas** where character limits matter.
