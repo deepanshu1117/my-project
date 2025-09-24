@@ -38,3 +38,4 @@ Learning Outcomes:
 3. Array Methods: Applying array methods like find(), findIndex(), map(), some(), and splice() to efficiently manipulate data.
 4. Conditional Logic and Validation: Implementing if statements to validate incoming data and handle potential errors, such as missing required fields or duplicate entries.
 5. Object Destructuring: Using object destructuring to easily extract properties like suit and value from the request body.
+git checkout main  # or master
